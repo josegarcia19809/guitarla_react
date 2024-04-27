@@ -1,0 +1,115 @@
+Curso: React y TypeScript - La Guía Completa Creando +10 Proyectos
+
+Creación: Sábado 27 de abril 2024
+
+Modificado: 
+
+
+PROYECTO Carrito de Compras: Copiando el código HTML estatico a React
+
+Como Escribir código CSS en React
+03:03
+¿Qué son los Componentes en React?
+07:00
+¿Qué es JSX?
+09:28
+Renombrando class a className de nuestro proyecto
+04:16
+Creando un Componente para cada Guitarra
+03:13
+Introducción a los React Hooks
+02:34
+¿Qué es el State en React? y useState
+08:58
+Reglas de los Hooks
+05:08
+¿Qué es useEffect?
+06:49
+Añadiendo los Productos al State
+04:37
+Iterando sobre los Productos en React
+06:29
+¿Qué son los Props?
+06:04
+Mostrando la Información de cada Guitarra
+07:28
+Eventos en JSX
+06:13
+Creando un State de Carrito
+07:48
+Agregando Guitarras al Carrito
+03:53
+Detectar si un elemento existe en el carrito
+06:10
+Agregando Guitarras al Carrito con Cantidad
+03:36
+Incrementando cantidad si un articulo ya estaba agregado
+03:00
+Mostrando los Contenidos del carrito
+07:10
+Detectando si el carrito tiene algo o esta vacio
+02:32
+State derivado
+02:27
+Calculando el Total a pagar
+03:42
+useMemo para mejorar el performance de nuestro código
+03:44
+Eliminando Articulos del Carrito
+04:48
+Creando una Función para Incrementar las cantidades y RETO 01
+07:21
+SOLUCIÓN RETO 01
+04:36
+Agregando la función de Limpiar Carrito
+02:02
+Carrito persistente con LocalStorage - Almacenando
+07:15
+Carrito persistente con LocalStorage - Recuperar los productos y mostrarlos
+04:26
+Últimos Ajustes y Deployment
+05:47
+
+PROYECTO - Carrito de Compras - Crear tus propios Hooks
+6 clases • 20 min
+Ventajas y Como crear tus propios Hooks
+02:02
+Instalando Dependencias
+01:28
+Creando el Hook de useCart
+03:33
+Definir Valores y extraerlos en el Hook
+03:01
+Migrando el Código hacia useCart
+04:17
+Finalizando el Hook y Consideraciones
+05:45
+
+PROYECTO - Carrito de Compras - Migrando a TypeScript paso a paso
+13 clases • 53 min
+¿Qué es TypeScript y sus ventajas?
+02:14
+Creando el Proyecto con TypeScript
+08:06
+Introducción a TypeScript - Primitive Types
+04:27
+Introducción a TypeScript - Types e Interfaces
+05:24
+Asignar Types a tus Props - Inline Type
+06:27
+Asignar Types a tus Props - Type Separado
+01:50
+Creando un Archivo de Types ¿Donde y como hacerlo?
+04:27
+Añadiendo un Type para los elementos del Carrito
+03:07
+Heredar y extender un Type
+01:51
+Utility Types en TypeScript
+03:56
+Agregando el Nuevo Type a nuestro código
+02:33
+Creando un Type para el ID de la guitarra
+03:16
+Typando los Props del Header y Building del proyecto
+05:34
