@@ -5,11 +5,11 @@ Creación: Sábado 27 de abril 2024
 Modificado: 
 
 
-PROYECTO Carrito de Compras: Componentes en React
+PROYECTO Carrito de Compras: Renombrando class a className de nuestro proyecto, Creando Header
 
 ¿Qué es JSX?
 09:28
-Renombrando class a className de nuestro proyecto
+
 04:16
 Creando un Componente para cada Guitarra
 03:13
