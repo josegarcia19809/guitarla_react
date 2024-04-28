@@ -5,12 +5,8 @@ Creación: Sábado 27 de abril 2024
 Modificado: 
 
 
-PROYECTO Carrito de Compras: Copiando el código HTML estatico a React
+PROYECTO Carrito de Compras: Componentes en React
 
-Como Escribir código CSS en React
-03:03
-¿Qué son los Componentes en React?
-07:00
 ¿Qué es JSX?
 09:28
 Renombrando class a className de nuestro proyecto
