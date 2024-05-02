@@ -5,13 +5,9 @@ Creación: Sábado 27 de abril 2024
 Modificado: 
 
 
-PROYECTO Carrito de Compras: Renombrando class a className de nuestro proyecto, Creando Header
+PROYECTO Carrito de Compras: Creando un Componente para cada Guitarra
 
-¿Qué es JSX?
-09:28
 
-04:16
-Creando un Componente para cada Guitarra
 03:13
 Introducción a los React Hooks
 02:34
