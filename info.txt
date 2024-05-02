@@ -5,20 +5,8 @@ Creación: Sábado 27 de abril 2024
 Modificado: 
 
 
-PROYECTO Carrito de Compras: Creando un Componente para cada Guitarra
 
 
-03:13
-Introducción a los React Hooks
-02:34
-¿Qué es el State en React? y useState
-08:58
-Reglas de los Hooks
-05:08
-¿Qué es useEffect?
-06:49
-Añadiendo los Productos al State
-04:37
 Iterando sobre los Productos en React
 06:29
 ¿Qué son los Props?
