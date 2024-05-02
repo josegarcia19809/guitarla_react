@@ -5,10 +5,8 @@ Creación: Sábado 27 de abril 2024
 Modificado: 
 
 
+PROYECTO Carrito de Compras: Iterando sobre los Productos en React
 
-
-Iterando sobre los Productos en React
-06:29
 ¿Qué son los Props?
 06:04
 Mostrando la Información de cada Guitarra
