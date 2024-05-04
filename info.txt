@@ -3,12 +3,11 @@ Curso: React y TypeScript - La Guía Completa Creando +10 Proyectos
 Creación: Sábado 27 de abril 2024
 
 Modificado: Miércoles 1 de mayo 2024
+Modificado: Sábado 4 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Mostrando la Información de cada Guitarra
+PROYECTO Carrito de Compras: Eventos en JSX
 
-Eventos en JSX
-06:13
 Creando un State de Carrito
 07:48
 Agregando Guitarras al Carrito
