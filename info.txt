@@ -6,10 +6,8 @@ Modificado: Miércoles 1 de mayo 2024
 Modificado: Sábado 4 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Eventos en JSX
+PROYECTO Carrito de Compras: Creando un State de Carrito
 
-Creando un State de Carrito
-07:48
 Agregando Guitarras al Carrito
 03:53
 Detectar si un elemento existe en el carrito
