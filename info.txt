@@ -7,10 +7,8 @@ Modificado: Sábado 4 de mayo 2024
 Modificado: Lunes 6 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Incrementando cantidad si un articulo ya estaba agregado
+PROYECTO Carrito de Compras: Mostrando los Contenidos del carrito
 
-Mostrando los Contenidos del carrito
-07:10
 Detectando si el carrito tiene algo o esta vacio
 02:32
 State derivado

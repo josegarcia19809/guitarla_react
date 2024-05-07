@@ -1,4 +1,6 @@
-const Header = () => {
+import guitar from "./Guitar.jsx";
+
+const Header = ({cart}) => {
     return (
         <header className="py-5 header">
             <div className="container-xl">
@@ -12,7 +14,8 @@ const Header = () => {
                             />
                         </a>
                     </div>
-                    <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
+                    <nav
+                        className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
                         <div className="carrito">
                             <img
                                 className="img-fluid"
@@ -26,25 +29,26 @@ const Header = () => {
                                 </p>
                                 <table className="w-100 table">
                                     <thead>
-                                        <tr>
-                                            <th>Imagen</th>
-                                            <th>Nombre</th>
-                                            <th>Precio</th>
-                                            <th>Cantidad</th>
-                                            <th></th>
-                                        </tr>
+                                    <tr>
+                                        <th>Imagen</th>
+                                        <th>Nombre</th>
+                                        <th>Precio</th>
+                                        <th>Cantidad</th>
+                                        <th></th>
+                                    </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
+                                    {cart.map(guitar => (
+                                        <tr key={guitar.id}>
                                             <td>
                                                 <img
                                                     className="img-fluid"
-                                                    src="./public/img/guitarra_02.jpg"
+                                                    src={`/img/${guitar.image}.jpg`}
                                                     alt="imagen guitarra"
                                                 />
                                             </td>
-                                            <td>SRV</td>
-                                            <td className="fw-bold">$299</td>
+                                            <td>{guitar.name}</td>
+                                            <td className="fw-bold">${guitar.price}</td>
                                             <td className="flex align-items-start gap-4">
                                                 <button
                                                     type="button"
@@ -52,7 +56,7 @@ const Header = () => {
                                                 >
                                                     -
                                                 </button>
-                                                1
+                                                {guitar.quantity}
                                                 <button
                                                     type="button"
                                                     className="btn btn-dark"
@@ -69,6 +73,7 @@ const Header = () => {
                                                 </button>
                                             </td>
                                         </tr>
+                                    ))}
                                     </tbody>
                                 </table>
 
