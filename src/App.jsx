@@ -9,6 +9,8 @@ function App() {
     const [cart, setCart] = useState([]);
 
     function addToCart(item) {
+        const itemExists=cart.findIndex((guitar) => guitar.id === item.id);
+        console.log(itemExists)
         setCart(prevCar=>[...prevCar, item])
     }
 

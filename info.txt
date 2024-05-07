@@ -7,12 +7,8 @@ Modificado: Sábado 4 de mayo 2024
 Modificado: Lunes 6 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Agregando Guitarras al Carrito
+PROYECTO Carrito de Compras: Detectar si un elemento existe en el carrito
 
-
-03:53
-Detectar si un elemento existe en el carrito
-06:10
 Agregando Guitarras al Carrito con Cantidad
 03:36
 Incrementando cantidad si un articulo ya estaba agregado
