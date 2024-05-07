@@ -4,11 +4,12 @@ Creación: Sábado 27 de abril 2024
 
 Modificado: Miércoles 1 de mayo 2024
 Modificado: Sábado 4 de mayo 2024
+Modificado: Lunes 6 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Creando un State de Carrito
+PROYECTO Carrito de Compras: Agregando Guitarras al Carrito
 
-Agregando Guitarras al Carrito
+
 03:53
 Detectar si un elemento existe en el carrito
 06:10
