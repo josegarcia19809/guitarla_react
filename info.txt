@@ -8,9 +8,9 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Eliminando Articulos del Carrito
+PROYECTO Carrito de Compras: Creando una Función para Incrementar las cantidades
 
-Creando una Función para Incrementar las cantidades y RETO 01
+ y RETO 01
 07:21
 SOLUCIÓN RETO 01
 04:36
