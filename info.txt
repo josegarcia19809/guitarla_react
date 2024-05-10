@@ -8,10 +8,8 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Calculando el Total a pagar
+PROYECTO Carrito de Compras: useMemo para mejorar el performance de nuestro código
 
-useMemo para mejorar el performance de nuestro código
-03:44
 Eliminando Articulos del Carrito
 04:48
 Creando una Función para Incrementar las cantidades y RETO 01
