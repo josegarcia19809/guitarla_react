@@ -5,12 +5,11 @@ Creación: Sábado 27 de abril 2024
 Modificado: Miércoles 1 de mayo 2024
 Modificado: Sábado 4 de mayo 2024
 Modificado: Lunes 6 de mayo 2024
+Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Mostrando los Contenidos del carrito
+PROYECTO Carrito de Compras: Detectando si el carrito tiene algo o esta vacio
 
-Detectando si el carrito tiene algo o esta vacio
-02:32
 State derivado
 02:27
 Calculando el Total a pagar
