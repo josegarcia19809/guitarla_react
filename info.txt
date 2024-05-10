@@ -8,12 +8,8 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Persistente- Recuperar los productos de LocalStorage y mostrarlos
+PROYECTO Carrito de Compras: Últimos Ajustes
 
-
-04:26
-Últimos Ajustes y Deployment
-05:47
 
 PROYECTO - Carrito de Compras - Crear tus propios Hooks
 6 clases • 20 min
