@@ -8,12 +8,8 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Creando una Función para Incrementar las cantidades
+PROYECTO Carrito de Compras: Creando una Función para decrementar las cantidades
 
- y RETO 01
-07:21
-SOLUCIÓN RETO 01
-04:36
 Agregando la función de Limpiar Carrito
 02:02
 Carrito persistente con LocalStorage - Almacenando
