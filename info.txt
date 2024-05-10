@@ -8,10 +8,8 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: useMemo para mejorar el performance de nuestro código
+PROYECTO Carrito de Compras: Eliminando Articulos del Carrito
 
-Eliminando Articulos del Carrito
-04:48
 Creando una Función para Incrementar las cantidades y RETO 01
 07:21
 SOLUCIÓN RETO 01
