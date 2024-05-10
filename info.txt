@@ -8,10 +8,8 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Detectando si el carrito tiene algo o esta vacio
+PROYECTO Carrito de Compras: State derivado
 
-State derivado
-02:27
 Calculando el Total a pagar
 03:42
 useMemo para mejorar el performance de nuestro código
