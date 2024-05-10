@@ -8,9 +8,9 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Carrito persistente con LocalStorage - Almacenando
+PROYECTO Carrito de Compras: Persistente- Recuperar los productos de LocalStorage y mostrarlos
 
-Carrito persistente con LocalStorage - Recuperar los productos y mostrarlos
+
 04:26
 Últimos Ajustes y Deployment
 05:47
