@@ -8,7 +8,7 @@ Modificado: Lunes 6 de mayo 2024
 Modificado: Viernes 10 de mayo 2024
 
 
-PROYECTO Carrito de Compras: Últimos Ajustes
+PROYECTO Carrito de Compras: Creando el Hook de useCart y migrando
 
 
 PROYECTO - Carrito de Compras - Crear tus propios Hooks
@@ -17,7 +17,7 @@ Ventajas y Como crear tus propios Hooks
 02:02
 Instalando Dependencias
 01:28
-Creando el Hook de useCart
+
 03:33
 Definir Valores y extraerlos en el Hook
 03:01
