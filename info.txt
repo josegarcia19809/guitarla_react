@@ -2,28 +2,11 @@ Curso: React y TypeScript - La Guía Completa Creando +10 Proyectos
 
 Creación: Sábado 27 de abril 2024
 
-Modificado: Miércoles 1 de mayo 2024
-Modificado: Sábado 4 de mayo 2024
-Modificado: Lunes 6 de mayo 2024
-Modificado: Viernes 10 de mayo 2024
+PROYECTO Carrito de Compras: Finalizando el Hook y Consideraciones
 
 
-PROYECTO Carrito de Compras: Creando el Hook de useCart y migrando
 
 
-PROYECTO - Carrito de Compras - Crear tus propios Hooks
-6 clases • 20 min
-Ventajas y Como crear tus propios Hooks
-02:02
-Instalando Dependencias
-01:28
-
-03:33
-Definir Valores y extraerlos en el Hook
-03:01
-Migrando el Código hacia useCart
-04:17
-Finalizando el Hook y Consideraciones
 05:45
 
 PROYECTO - Carrito de Compras - Migrando a TypeScript paso a paso

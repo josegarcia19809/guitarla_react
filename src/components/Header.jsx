@@ -1,12 +1,21 @@
-import {useMemo} from "react";
+const Header = ({
+                    // eslint-disable-next-line react/prop-types
+                    cart,
+                    // eslint-disable-next-line react/prop-types
+                    removeFromCart,
+                    // eslint-disable-next-line react/prop-types
+                    increaseQuantity,
+                    // eslint-disable-next-line react/prop-types
+                    decreaseQuantity,
+                    // eslint-disable-next-line react/prop-types
+                    clearCart,
+                    // eslint-disable-next-line react/prop-types
+                    isEmpty,
+                    // eslint-disable-next-line react/prop-types
+                    cartTotal
+                }) => {
 
 
-const Header = ({cart, removeFromCart, increaseQuantity, decreaseQuantity, clearCart}) => {
-
-    // State derivado
-    const isEmpty = useMemo(() => cart.length === 0, [cart]);
-    const cartTotal = useMemo(
-        () => cart.reduce((total, item) => total + (item.quantity * item.price), 0), [cart])
     return (
         <header className="py-5 header">
             <div className="container-xl">
@@ -48,6 +57,7 @@ const Header = ({cart, removeFromCart, increaseQuantity, decreaseQuantity, clear
                                             </tr>
                                             </thead>
                                             <tbody>
+                                            {/* eslint-disable-next-line react/prop-types */}
                                             {cart.map(guitar => (
                                                 <tr key={guitar.id}>
                                                     <td>
