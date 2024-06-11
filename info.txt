@@ -1,39 +1,4 @@
 Curso: React y TypeScript - La Guía Completa Creando +10 Proyectos
 
 Creación: Sábado 27 de abril 2024
-
-PROYECTO Carrito de Compras: Finalizando el Hook y Consideraciones
-
-
-
-
-05:45
-
-PROYECTO - Carrito de Compras - Migrando a TypeScript paso a paso
-13 clases • 53 min
-¿Qué es TypeScript y sus ventajas?
-02:14
-Creando el Proyecto con TypeScript
-08:06
-Introducción a TypeScript - Primitive Types
-04:27
-Introducción a TypeScript - Types e Interfaces
-05:24
-Asignar Types a tus Props - Inline Type
-06:27
-Asignar Types a tus Props - Type Separado
-01:50
-Creando un Archivo de Types ¿Donde y como hacerlo?
-04:27
-Añadiendo un Type para los elementos del Carrito
-03:07
-Heredar y extender un Type
-01:51
-Utility Types en TypeScript
-03:56
-Agregando el Nuevo Type a nuestro código
-02:33
-Creando un Type para el ID de la guitarra
-03:16
-Typando los Props del Header y Building del proyecto
-05:34
+Finalizada parte de React con JS: Lunes 10 de Junio 2024
